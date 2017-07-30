@@ -1,0 +1,59 @@
+Volume 1 Radical 1 一
+U+30000	一	一	001.001		Head	Zhuan
+U+30001	弌	一	001.001a	Variant	Gu
+U+30002	元	一	001.002		Head	Zhuan
+U+30003	天	一	001.003		Head	Zhuan
+U+30004 丕	一	001.004		Head	Zhuan
+U+30005 吏	一	001.005		Head	Zhuan
+
+Volume 1 Radical 2 丄
+U+30006 丄	丄	002.001		Head	Gu
+U+30007 上	丄	002.001a	Variant	Zhuan
+U+30008 帝	丄	002.002		Head	Zhuan
+U+30009 𢂇	丄	002.002a	Variant	Gu
+U+30010	旁	丄	002.003		Head	Zhuan
+U+30011	𣃟	丄	002.003a	Variant Gu
+U+30012	𣃙	丄	002.003b	Variant	Gu
+U+30013	雱	丄	002.003c	Variant Zhou
+U+30014 丅	丄	002.004		Head	Gu
+U+30015	下	丄	002.004a	Variant Zhuan
+
+Volume 1 Radical 3 示
+U+30016 示	示	003.001		Head 	Zhuan
+U+30017 𥘅	示	003.001a	Variant Gu
+U+30018	祜	示	003.002		Head	Zhuan
+U+30019	禮	示	003.003		Head	Zhuan
+U+30020	𠃞	示	003.003a	Variant	Gu
+U+30021 禧	示	003.004		Head	Zhuan
+U+30022	禛	示	003.005		Head	Zhuan
+U+30023	祿	示	003.006		Head	Zhuan
+U+30024	禠	示	003.007		Head	Zhuan
+U+30025	禎	示	003.008		Head	Zhuan
+U+30026 祥	示	003.009		Head	Zhuan
+U+30027	祉	示	003.010		Head	Zhuan
+U+30028	福	示	003.011		Head	Zhuan
+U+30029	祐	示	003.012		Head	Zhuan
+U+00030	祺	示	003.013		Head	Zhuan
+U+00031	禥	示	003.013a	Variant	Zhou
+U+00032	祗	示	003.014		Head	Zhuan
+U+00033	禔	示	003.015		Head	Zhuan
+U+00034	神	示	003.016		Head	Zhuan
+U+00035	祇	示	003.017		Head	Zhuan
+U+00036	祕	示	003.018		Head	Zhuan
+U+00037	齋	示	003.019		Head	Zhuan
+U+00038	𪗒	示	003.019a	Variant	Zhou
+U+00039	禋	示	003.020		Head	Zhuan
+U+00040	𡫚	示	003.020a	Variant	Zhou
+U+00041	祭	示	003.021		Head	Zhuan
+U+00042	祀	示	003.022		Head	Zhuan
+U+00043	禩	示	003.022a	Variant	Alt
+U+00044 祡	示	003.023		Head	Zhuan
+U+00045	𥚨	示	003.023a	Variant	Gu
+U+00046	禷	示	003.024		Head	Zhuan
+U+00047	祪	示	003.025		Head	Zhuan
+U+00048	祔	示	003.026		Head	Zhuan
+U+00049	祖	示	003.027		Head	Zhuan
+U+00050	𥛱	示	003.028		Head	Zhuan
+U+00051	祊	示	003.028a	Variant	Alt
+U+00052	祰	示	003.029		Head	Zhuan
+U+00053	祏	示	003.030		Head	Zhuan
