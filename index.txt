@@ -1,4 +1,31 @@
-Volume 1 Radical 1 一
+# Example data file for small seal
+# Data separated by tab (\t)
+#
+# Column 1: Proposed Codepoint
+# Column 2: Transliterated CJK Unified Ideograph
+# Column 3: Shuowen Radical, in CJK Unified Ideograph
+# Column 4: Radical-sequence number of Shuowen head character
+# Column 5: Character type -- whether it is the head entry or variant entry
+# Column 6: Script type -- whether it is classified as Seal, Zhuan, Qi, Yi, or Zhou by Shuowen
+# Column 7: Volume/Page number in that version (ommitted in this sample)
+# Column 8: File name for evidence (ommitted in this sample) (in WG2 submission)
+#
+# This data file should be repeated for every Shuowen version which is analyzed.
+# If a certain ideograph does not exist for that Shuowen version, omit that codepoint.
+# If a certain ideograph has multiple radicals, repeat the row for each radical.
+#
+# Column 1 and 2 should be consistent for every Shuowen version data file.
+# It is recommended that the transliterated character be accurate down to the component level.
+# In general, Column 3, 4, 5 and 6, it should be the same in every Daxu variant version.
+#
+# For the benefit for WG2's review work, the filename of the cropped head character should be noted in Column 8.
+#
+# Optionally, for the preservation of Chinese culture and benefit to mankind,
+# the qieyin or liushu or even character decomposition could be noted in additional columns.
+#
+# Prepared by Henry Chan, Individual Contributer to IRG.
+
+# Volume 1 Radical 1 一
 U+30000	一	一	001.001		Head	Zhuan
 U+30001	弌	一	001.001a	Variant	Gu
 U+30002	元	一	001.002		Head	Zhuan
@@ -6,7 +33,7 @@ U+30003	天	一	001.003		Head	Zhuan
 U+30004 丕	一	001.004		Head	Zhuan
 U+30005 吏	一	001.005		Head	Zhuan
 
-Volume 1 Radical 2 丄
+# Volume 1 Radical 2 丄
 U+30006 丄	丄	002.001		Head	Gu
 U+30007 上	丄	002.001a	Variant	Zhuan
 U+30008 帝	丄	002.002		Head	Zhuan
@@ -18,7 +45,7 @@ U+30013	雱	丄	002.003c	Variant Zhou
 U+30014 丅	丄	002.004		Head	Gu
 U+30015	下	丄	002.004a	Variant Zhuan
 
-Volume 1 Radical 3 示
+# Volume 1 Radical 3 示
 U+30016 示	示	003.001		Head 	Zhuan
 U+30017 𥘅	示	003.001a	Variant Gu
 U+30018	祜	示	003.002		Head	Zhuan
