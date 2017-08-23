@@ -5,8 +5,8 @@
 # Column 2: Transliterated CJK Unified Ideograph
 # Column 3: Shuowen Radical, in CJK Unified Ideograph
 # Column 4: Radical-sequence number of Shuowen head character
-# Column 5: Character type -- whether it is the head entry or variant entry
-# Column 6: Script type -- whether it is classified as Seal, Zhuan, Qi, Yi, or Zhou by Shuowen
+# Column 5: Character type -- whether it is the Zhengzhuan, Chongwen or Xinfu
+# Column 6: Script type -- whether it is classified as Zhuanshu, Variant Zhuanshu, Qizi, Zhouwen, Guwen or Xinfu by Shuowen
 # Column 7: Volume/Page number in that version (ommitted in this sample)
 # Column 8: File name for evidence (ommitted in this sample) (in WG2 submission)
 #
